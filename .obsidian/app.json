@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "/图库",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  }
+}

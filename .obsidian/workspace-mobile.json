@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "593dd84f54dd922e",
+    "type": "split",
+    "children": [
+      {
+        "id": "79bcc30f605bc5e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6de041b298d5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "考研/数据结构/数据结构.canvas",
+                "viewState": {
+                  "x": 2435.387403099681,
+                  "y": 3812.6149001446465,
+                  "zoom": -0.5133494386747153
+                }
+              }
+            }
+          },
+          {
+            "id": "cc85de7c97c9a773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/数学/高数/2.导数与微分.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc7e771ea6a097ed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74f4dbcaad6d0877",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dd1f2eb13e04110b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "旋转",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ce84a5634e90d481",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1e872aa2155c5902",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "6b108eb6517b2ae9",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b629d78a86dd2d1f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3a0dcf99d76e49a3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "考研/数据结构/数据结构.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f2f09a79d4794df9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "考研/数据结构/数据结构.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6adf2f4d11ffa635",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "考研/数据结构/数据结构.canvas"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "simple-note-review:Simple Note Review: Open Sidebar View": false,
+      "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "6de041b298d5aa07",
+  "lastOpenFiles": [
+    "考研/数据结构/数据结构.md",
+    "考研/数学/高数/高数可视化.canvas",
+    "考研/数学/高数/2.导数与微分.md",
+    "考研/数学/高数/3.积分学.md",
+    "未命名.canvas",
+    "ss.canvas",
+    "图库/数据结构.md",
+    "考研/生成多项式.md",
+    "考研/数据结构/5.树.md",
+    "考研/数据结构/6.图.md",
+    "考研/密码学/密码学.md",
+    "考研/数据结构/1.绪论.md",
+    "考研/密码学/1.绪论.md",
+    "考研/密码学/2.流密码.md",
+    "考研/计算机网络/应用层.md",
+    "考研/计算机网络/传输层.md",
+    "考研/计算机网络/网络层.md",
+    "考研/数据结构/2.线性表.md",
+    "考研/数学/概率论/概率论.md",
+    "考研/密码学/4.公钥密码.md",
+    "考研/密码学/3.分组密码.md",
+    "考研/密码学/密码学.canvas",
+    "考研/数据结构/4.串和数组.md",
+    "考研/数据结构/3.栈和队列.md",
+    "obsidian笔记语法特殊.md",
+    "考研/数学/充分、必要、充要.md",
+    "考研/计算机网络/数据链路层.md",
+    "考研/计算机网络/物理层概念.md",
+    "考研/计算机网络/计算机网络.md",
+    "考研/数据结构/数据结构.canvas",
+    "考研/计算机网络/网络层.canvas",
+    "考研/计算机网络/应用层.canvas",
+    "考研/计算机网络/传输层.canvas",
+    "考研/数学/概率论/概率论.canvas",
+    "图库/6.图-2024-09-11.png",
+    "图库/5.树-2024-09-11.jpg",
+    "图库/5.树-2024-09-10.png",
+    "图库/5.树-2024-09-11.png",
+    "考研/计算机网络/数据链路层.canvas",
+    "图库/2.矩阵-2024-07-25.png",
+    "图库/2.矩阵-2024-07-28.png",
+    "图库/公钥密码-2024-08-26.png",
+    "图库/2.矩阵-2024-07-24.png",
+    "图库/6.图-2024-09-11-9.png",
+    "图库/2.矩阵-2024-07-22.png",
+    "考研/数据结构/《数据结构与算法分析》（荣政课本）.pdf",
+    "考研/数学/概率论",
+    "考研/密码学",
+    "考研/数据结构",
+    "模版/script/openOb.js",
+    "模版/script/notice.js",
+    "模版/script/movies.js",
+    "模版/script/colorclock.js",
+    "模版/script/SwitchViews.js",
+    "考研消息/现代密码学-杨波-清华大学出版社.pdf"
+  ]
+}

@@ -1,0 +1,12 @@
+.callout[data-callout="red"] {
+    --callout-color: 234, 82, 82;
+    /* --callout-icon: lucide-alert-circle; */
+}
+.callout[data-callout="blu"] {
+    --callout-color: 8, 109, 221
+    /* --callout-icon: lucide-alert-circle; */
+}
+.callout[data-callout="yel"] {
+    --callout-color: 255, 208, 0
+    /* --callout-icon: lucide-alert-circle; */
+}

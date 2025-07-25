@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "callout",
+    "hover_view"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 19,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Fira Code,Inter",
+  "monospaceFontFamily": "AnonymicePro Nerd Font Propo"
+}

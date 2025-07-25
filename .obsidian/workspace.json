@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "81cc5007381d717c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5bb83a50cfedcd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27b9eeefcd388935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python3WebSpider/Chapter 11 APP的爬取/11.0-APP的爬取.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.0-APP的爬取"
+            }
+          },
+          {
+            "id": "2b0c7399a04a41d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "longform/effective_python/effective_python笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "effective_python笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f49c6f2d5359a546",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1413a5394367355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4c2fc31b4fa4c94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3bfe8e6b5d9348d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7e5a5cd6b34a2d6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "238ff57ae0af105c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "be7ad9c30c150005",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考编/非法部分/公文.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "公文 的大纲"
+            }
+          },
+          {
+            "id": "d8b8e32979cb0440",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "3346a2c5766233a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "233175406bdf4cf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3069204eed23d726",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考编/非法部分/公文.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "公文 的反向链接列表"
+            }
+          },
+          {
+            "id": "c750ca2724ed0fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机/编程语言/rust/rust语法/所有权机制.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "所有权机制 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "27b9eeefcd388935",
+  "lastOpenFiles": [
+    "longform/effective_python/第六章 元类和属性.md",
+    "图库/Pasted image 20250714234042.png",
+    "longform/effective_python/effective_python笔记.md",
+    "longform/effective_python/第五章 类和接口.md",
+    "longform/effective_python/note.md",
+    "longform/effective_python/第二章 列表和字典.md",
+    "规范.md",
+    "longform/effective_python/第三章 函数.md",
+    "longform/effective_python/第四章 推导与生成.md",
+    "longform/effective_python/第一章 培养Python思维.md",
+    "Python3WebSpider/Chapter 7 动态渲染页面抓取/7.4-使用Selenium爬取淘宝商品.md",
+    "Python3WebSpider/Chapter 2 爬虫基础/2.2-Web网页基础.md",
+    "Python3WebSpider/Chapter 4 解析库的使用/4.3-pyquery的使用.md",
+    "Python3WebSpider/Chapter 3 基本库的使用/3.1-使用urllib.md",
+    "longform/effective_python/第七章 并发与并行.md",
+    "longform/effective_python/第八章 稳定与性能.md",
+    "longform/effective_python/第九章 测试与调试.md",
+    "Python3WebSpider/Chapter 1 开发环境配置/1.6-Web库的安装.md",
+    "Python3WebSpider/Chapter 1 开发环境配置/1.2-请求库的安装.md",
+    "longform/test/123123.md",
+    "longform/test/123.md",
+    "Python3WebSpider/Chapter 5 数据存储/5.1-文件存储.md",
+    "longform/test/Index.md",
+    "longform/test",
+    "longform/Python3WebSpider/image/cover.jpg",
+    "longform/Python3WebSpider/image/9-9.jpg",
+    "longform/Python3WebSpider/代码操作/1.py",
+    "longform/Python3WebSpider/image/9-5.png",
+    "longform/Python3WebSpider/image/9-8.png",
+    "longform/Python3WebSpider/image/9-7.jpg",
+    "longform/Python3WebSpider/image/9-6.jpg",
+    "longform/Python3WebSpider/image/9-4.jpg",
+    "longform/Python3WebSpider/image/9-30.jpg",
+    "longform/Python3WebSpider/image/9-29.jpg",
+    "longform/Python3WebSpider/image/3-5.ico",
+    "longform/Python3WebSpider/README.md",
+    "longform/Python3WebSpider/代码操作",
+    "longform/Python3WebSpider/Index.md",
+    "longform/Python3WebSpider/image",
+    "longform/Python3WebSpider/9.5-使用代理爬取微信公众号文章.md",
+    "longform/Python3WebSpider",
+    "tmp",
+    "新建文件夹",
+    "longform/Python3WebSpider/Chapter 15 分布式爬虫的部署",
+    "longform/Python3WebSpider/Chapter 14 分布式爬虫",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "考研/计算机网络/物理层.canvas",
+    "考研/计算机网络/传输层.canvas",
+    "考研/计算机网络/网络层.canvas",
+    "考研/数学/概率论/概率论.canvas",
+    "考研/计算机网络/数据链路层.canvas",
+    "考研/数学/线性代数/线性代数.canvas",
+    "考研/计算机网络/计算机网络知识结构.canvas"
+  ]
+}

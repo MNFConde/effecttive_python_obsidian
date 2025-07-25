@@ -1,0 +1,53 @@
+{
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:delete-paragraph": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "pdf-plus:rectangular-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-local-images-plus:download-images-def": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ]
+}
