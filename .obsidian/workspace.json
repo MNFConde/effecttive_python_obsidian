@@ -195,8 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27b9eeefcd388935",
+  "active": "c4c2fc31b4fa4c94",
   "lastOpenFiles": [
+    "图库",
+    "README.md",
     "longform/effective_python/第六章 元类和属性.md",
     "图库/Pasted image 20250714234042.png",
     "longform/effective_python/effective_python笔记.md",
@@ -236,7 +238,6 @@
     "longform/Python3WebSpider/代码操作",
     "longform/Python3WebSpider/Index.md",
     "longform/Python3WebSpider/image",
-    "longform/Python3WebSpider/9.5-使用代理爬取微信公众号文章.md",
     "longform/Python3WebSpider",
     "tmp",
     "新建文件夹",
